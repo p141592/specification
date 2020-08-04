@@ -7,6 +7,8 @@ authors = ["Nikolay <root@k0d.ru>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 mkdocs-material = "^5.5.2"
+mkdocs-redirects = "^1.0.1"
+mkdocs-minify-plugin = "^0.3.0"
 
 [tool.poetry.dev-dependencies]
 
